@@ -4,7 +4,7 @@
 Ionic
 
 ## Description:
-The mobile application is an individual project. A photo gallery with the ability to take, edit, share and delete photos. 
+The mobile application is an individual project developed in a complete open-source SDK Ionic for devices with the Android and IOS operating systems. The app is a photo gallery with the ability to take, edit, share and delete photos.
 
 ## Screenshots:
 ![gallery_screenshot1](https://github.com/evgeniya-zhukova/Photo_gallery/blob/main/screenshots/Gallery1.png)
